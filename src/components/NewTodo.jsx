@@ -4,7 +4,7 @@ import { IoIosAddCircleOutline } from 'react-icons/io'
 
 export const NewTodo = ({handleAdd}) => {
     const [newTask, setnewTask] = useState("")
-console.log(newTask);
+/* console.log(newTask); */
 
 const handleSubmit=()=>{
     if(!newTask.trim()) return
