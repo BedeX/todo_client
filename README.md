@@ -1,2 +1,2 @@
 ## FullStack - Todos
-- [Netlify](todojsz.netlify.app)
+- [Netlify](https://todojsz.netlify.app)
